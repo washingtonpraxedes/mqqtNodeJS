@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "firebase": "^3.4.1",
+    "hapi": "^15.1.1",
     "hari": "^0.1.1",
     "mqtt": "^2.0.1"
   }
